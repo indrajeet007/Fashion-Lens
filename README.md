@@ -1,4 +1,4 @@
-# Fashion-Lens
+# Fashion Lens
 
 Semester Project
 
